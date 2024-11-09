@@ -27,4 +27,4 @@ Compile the contract.
 Deploy it on a testnet using MetaMask to pay gas fees.
 
 Web3 Interaction (Optional)
-If you want to interact with this token contract through a Web3 front end, you can add a simple JavaScript file web3_front_end.js
+If you want to interact with this token contract through a Web3 front end, you can use the JavaScript file web3_front_end.js
